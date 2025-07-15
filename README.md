@@ -1,4 +1,5 @@
-
+<img src="./assets/terminal_hero.gif" alt="Terminal Hero" title="Terminal Hero"
+     style="width:100%; max-width:100vw; height:250px; object-fit:cover; display:block; border-radius:18px; border:4px solid #343a40; box-sizing:border-box;" />
 
 I am a **full-stack developer** passionate about building **scalable, intuitive, and high-performance applications**. I specialize in crafting dynamic **frontend experiences** with **React, Tailwind CSS, TypeScript, Material UI, Chakra UI, and Shadcn UI**, ensuring seamless interaction and responsive design.  
 
