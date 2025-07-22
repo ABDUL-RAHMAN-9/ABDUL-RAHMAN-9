@@ -126,6 +126,9 @@ With strong proficiency in **Git workflows, version control, and deployment auto
      <td align="center">
       <img src="https://skillicons.dev/icons?i=github" height="30"/><br/>GitHub
     </td>
+    <td align="center">
+  <img src="https://img.shields.io/badge/Postman-%230d1117?style=flat&logo=postman&logoColor=orange" height="25"/><br/>Postman
+</td>
       </tr>
 </table>
 
