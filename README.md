@@ -95,7 +95,7 @@ With strong proficiency in **Git workflows, version control, and deployment auto
   <img src="https://img.shields.io/badge/chakraui-%230d1117?style=flat&logo=chakraui&logoColor=white" height="25"/><br/>Chakra UI
 </td>
 
-    <td align="center"> </td>
+
   </tr>
 
   <!-- Tools & Workflow -->
