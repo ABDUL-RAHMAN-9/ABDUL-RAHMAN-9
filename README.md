@@ -1,9 +1,9 @@
 # Hi, I'm Abdul Rahman 👋
 
-I am a Creative Developer and Full Stack Engineer focused on bridging the gap between design and high-performance code. I specialize in building immersive web experiences with Next.js and GSAP.
+I am a Full Stack Engineer and Creative Developer dedicated to building secure, scalable applications and high-performance web experiences. I specialize in architecting robust backend systems and database logic, seamlessly integrated with immersive, pixel-perfect interactions using Next.js and GSAP.
 
 ### What I'm currently focused on
-- Crafting pixel-perfect, interactive UIs that feel alive.
+- Crafting pixel-perfect, interactive UIs that bridge the gap between complex data and fluid motion.
 - Scaling Full Stack applications with Next.js and Supabase.
 - Exploring the intersection of UI/UX and Creative Coding.
 
