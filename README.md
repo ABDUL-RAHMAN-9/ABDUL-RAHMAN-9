@@ -37,4 +37,4 @@ I don't just write code; I build **scalable, production-ready systems**. My focu
 
 ### 📬 Connect with me:
 
-[Portfolio](https://portfolio-abdul-rahman.vercel.app/) • [LinkedIn](https://linkedin.com/in/abdulrahman-in)
+[**Portfolio**](https://portfolio-abdul-rahman.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/abdulrahman-in) • [**Email Me**](mailto:abdulrahman161004@gmail.com)
