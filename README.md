@@ -26,7 +26,7 @@ I don't just write code; I build **scalable, production-ready systems**. My focu
 - **Accessibility (a11y):** Hand-coded ARIA labels and live regions for screen-reader-compliant forms.
 - **Security First:** Protected dashboard routes using Auth.js and Middleware logic.
 
-[**View Project Repository →**](https://github.com/ABDUL-RAHMAN-9/nextjs-dashboard) | [**Live Production Demo →**](https://acme-fintech-dashboard.vercel.app/)
+[**View Project Repository →**](https://github.com/ABDUL-RAHMAN-9/nextjs-dashboard)
 
 ---
 
