@@ -1,42 +1,33 @@
 # Hi, I'm Abdul Rahman 👋
 
-**Full-Stack Engineer & Next.js Architect**  
-*Specializing in high-performance web architectures, secure database logic, and immersive digital experiences.*
+**Full Stack Developer | Open Source Contributor**  
+*Engineering type-safe systems and exploring the depths of the Next.js & T3 ecosystem.*
 
 ---
 
-### 🚀 Technical Expertise
+### Technical Expertise & Active Learning
 
-I don't just write code; I build **scalable, production-ready systems**. My focus is on the "Bleeding Edge" of the Next.js ecosystem.
+I specialize in the "Bleeding Edge" of web development. My focus is on moving beyond simple components to building scalable, production-ready systems while actively refining my architectural skills.
 
 - **Architecture:** Next.js 15+ (App Router), Server Components, Server Actions, Middleware.
-- **Security:** Auth.js (NextAuth v5), JWT Session Management, Zod Schema Validation, Role-Based Access Control (RBAC).
-- **Database & Backend:** PostgreSQL, Supabase, Drizzle ORM, Row Level Security (RLS), Data Seeding.
-- **Performance & UX:** Streaming (Suspense/Skeletons), Partial Prerendering (PPR), GSAP, Framer Motion, Responsive Design.
-- **Reliability:** Graceful Error Handling (error.tsx), 404 Management (not-found.tsx), and strict Type Safety.
+- **Security:** Auth.js (NextAuth), JWT Session Management, Zod Schema Validation, Role-Based Access Control (RBAC).
+- **Database & Backend:** PostgreSQL, Prisma/Drizzle ORM, Supabase, Row Level Security (RLS).
+- **Performance & UX:** Streaming (Suspense), Partial Prerendering (PPR), GSAP, Framer Motion, Responsive Design.
+- **Reliability:** Graceful Error Handling, Type-Safe Development, and Modern Git Workflows.
 
 ---
 
-### 💼 Key Featured Project: Acme Fintech Dashboard
+### Growth & Engineering Philosophy
 
-*I recently completed a deep-dive architectural project based on the official Next.js curriculum to master the core pillars of modern web development:*
+I believe in continuous evolution. Having built over 60 projects, I am now focused on transitioning from independent development to high-impact Open Source contributions.
 
-- **Full-Stack CRUD:** Engineered a complete Invoice management system from scratch.
-- **Optimized Data Fetching:** Implemented Parallel Queries and Streaming to eliminate request waterfalls.
-- **Accessibility (a11y):** Hand-coded ARIA labels and live regions for screen-reader-compliant forms.
-- **Security First:** Protected dashboard routes using Auth.js and Middleware logic.
-
-[**View Project Repository →**](https://github.com/ABDUL-RAHMAN-9/nextjs-dashboard)
-
----
-
-### 📈 Metrics & Goals
-- **Current Focus:** Scaling SaaS architectures and mastering Advanced Animation (GSAP).
-- **Commitment:** Clean code, atomic commits, and documentation-first development.
+- **Currently Deep-Diving:** Mastering advanced SaaS architectures and high-performance animations with GSAP.
+- **Development Standard:** Clean code, atomic commits, and a documentation-first approach.
+- **Open Source Goal:** Actively researching and preparing for GSoC 2026 to solve real-world problems at scale.
 - **Availability:** Open for high-impact remote roles and technical collaborations.
 
-### 📬 Connect with me:
+---
 
-[**Portfolio**](https://portfolio-abdul-rahman.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/abdulrahman-in)
+### Connect with me:
 
-> [📧](mailto:abdulrahman161004@gmail.com) **Direct Email:** `abdulrahman161004@gmail.com`
+[**Portfolio**](https://portfolio-abdul-rahman.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/abdulrahman-in) • [**Email**](mailto:abdulrahman161004@gmail.com)
